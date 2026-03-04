@@ -29,7 +29,7 @@ Hi, I'm Lamia Binte Zaman👋
 ## 💻 Technical Skills
 
 ### 🧰 Programming Languages
-- Python (OOP)
+- Python 
 - Java
 - C
 - HTML  
