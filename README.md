@@ -46,7 +46,7 @@ Hi, I'm Lamia Binte Zaman👋
 - MySQL  
 
 ### 🧭 Tools & Others
-- Microsoft Office (PowerPoint)
+- Microsoft Office (PowerPoint,Excel)
 - Power BI  
 - Trello  
 - Canva  
