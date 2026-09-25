@@ -1,6 +1,14 @@
 Hi, I'm Lamia Binte Zaman👋
 🎓 Gruated from East West University
-📚 Currently learning Python, Manual testing, and test case design to strengthen skills and preparing for Internship opportunities to apply my knowledge in real projects
+📚 Currently learning some skills and preparing for opportunities to apply my knowledge in real projects
+
+## 🧪 ERP System
+
+- 🧪  Microsoft Dynamics 365 Business Central — Fixed Assets (acquisition, depreciation, disposal, reclassification)
+- 📊  Inventory Management — item cards, posting groups, VAT Posting Setup
+- 🔐  HR/Payroll Configuration — gratuity, CPF/GPF/WPPF, incentive bonus, organogram
+
+---
 
 ## 🧪 Manual Testing
 
